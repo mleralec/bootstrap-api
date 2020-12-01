@@ -4,6 +4,20 @@
 
 Written in [typescript](https://www.typescriptlang.org/), uses [express](https://www.npmjs.com/package/express), [jest](https://www.npmjs.com/package/jest), [prettier](https://prettier.io/), [eslint](https://eslint.org/)...
 
+### Try it
+
+You can directly create a repository on Github with this template. Go on [this repo](https://github.com/mleralec/bootstrap-api) and click on the _Use this template_ button
+
+Or by cloning this project:
+
+```
+git clone https://github.com/mleralec/bootstrap-api.git
+cd bootstrap-api
+yarn
+cp .env.example .env
+yarn dev
+```
+
 ### Available scripts
 
 - **dev**: to launch src/server.ts in development mode
